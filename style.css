@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+}
+
+h1{
+    font-family: Luminari;
+    font-size: 35px;
+    color: white;
+    text-align: center;
+}
+h2{
+    font-family: Luminari;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+}
+
+#output{
+    font-family: Luminari;
+    font-size: 20 px;
+    color: white;
+    text-align: center;
+}
+
+#sayName, #nameBack, #sayDate{
+    font-family: Luminari;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+#day, #myButton, #month, #name, #year{
+    margin: auto;
+    border: 5px solid darkred;
+    margin: 20px;
+}
+
+#output1, #output2, #zod{
+    font-family: Luminari;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    margin: auto;
+
+}
+#showPic{
+    width: 25%;
+}
+
+#container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
